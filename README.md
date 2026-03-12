@@ -14,11 +14,9 @@
 
 ## About
 
-I help founders, product leaders, and engineering heads solve the hard hiring problems - and build teams that actually move the needle.
+**Talent Partner at [Atlan](https://atlan.com)**, where I hire Principal Engineers and AI-native staff for Engineering, Product, and Design teams across India and North America. 12+ years scaling teams across B2B SaaS, Cloud, Security, and Data/AI infrastructure.
 
-**Talent Partner at [Atlan](https://atlan.com)**, where I hire across the levels for Engineering, Product, and Design teams across India and North America. 12+ years scaling teams across B2B SaaS, Cloud, Security, and Data/AI infrastructure.
-
-What makes me different: **I also build the tools my team uses.** A GitHub repo miner that extracts contributor profiles at scale. A Chrome extension that auto-scores candidates against job criteria. An AI agent that evaluates system design interviews end-to-end. An X-ray engine that runs overnight and fills my pipeline by morning. All built with AI.
+What makes me different: **I also build the tools my team uses.** A GitHub repo miner that extracts contributor profiles at scale. A Chrome extension that auto-scores candidates against job criteria. An AI agent that evaluates system design interviews end-to-end. An X-ray engine that runs overnight and fills my pipeline by morning. All built with AI as my engineering partner.
 
 I see recruitment as a long-term partnership. I care deeply about candidate experience, inclusive hiring, and building trust with stakeholders — so every hire feels thoughtful, not rushed.
 
@@ -26,7 +24,7 @@ I see recruitment as a long-term partnership. I care deeply about candidate expe
 
 ## What I Build
 
-*Tools I ship to solve problems my team faces daily. All built with AI.*
+*Tools I ship to solve problems my team faces daily. All built with AI as my engineering partner.*
 
 <table>
 <tr>
@@ -81,6 +79,41 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 </td>
 <td width="50%" valign="top">
 
+**Automated Google X-ray Engine**
+
+Runs daily in the background — zero manual effort. Appends fresh profiles automatically. Removes duplicates. Pipeline grows while I sleep.
+
+`Google Apps Script` `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+**Languages & Runtimes**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+
+**Tooling & Automation**
+
+[![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+[![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/rest)
+
+**AI & Agents**
+
+[![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![Glean](https://img.shields.io/badge/Glean_Agents-FF6B35?style=for-the-badge&logoColor=white)](https://glean.com)
+
+---
 
 ## GitHub Stats
 
