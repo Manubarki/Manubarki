@@ -26,7 +26,7 @@ I see recruitment as a long-term partnership. I care deeply about candidate expe
 
 ## What I Build
 
-*Tools I ship to solve problems my team faces daily. All built with AI as my engineering partner.*
+*Tools I ship to solve problems my team faces daily. All built with AI.*
 
 <table>
 <tr>
