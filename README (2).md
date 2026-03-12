@@ -1,0 +1,135 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Manu+Barki+%F0%9F%91%8B;I+don't+just+hire+engineers.;I+build+the+machines+that+find+them." alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manubarki/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://manubarki.github.io/my_portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manulb9@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manubarki&style=flat-square&color=58A6FF)
+
+</div>
+
+---
+
+## About
+
+**Talent Partner at [Atlan](https://atlan.com)**, where I hire Principal Engineers and AI-native staff for Engineering, Product, and Design teams across India and North America. 12+ years scaling teams across B2B SaaS, Cloud, Security, and Data/AI infrastructure.
+
+What makes me different: **I also build the tools my team uses.** A GitHub repo miner that extracts contributor profiles at scale. A Chrome extension that auto-scores candidates against job criteria. An AI agent that evaluates system design interviews end-to-end. An X-ray engine that runs overnight and fills my pipeline by morning. All built with AI as my engineering partner.
+
+I see recruitment as a long-term partnership. I care deeply about candidate experience, inclusive hiring, and building trust with stakeholders — so every hire feels thoughtful, not rushed.
+
+---
+
+## What I Build
+
+*Tools I ship to solve problems my team faces daily. All built with AI as my engineering partner.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[repo-extract](https://github.com/Manubarki/repo-extract)**
+
+Search any GitHub repo, extract up to ~2,000 contributors, enrich profiles with company, location, socials & emails, filter by location, and export to CSV. Surfaces engineers who ship real code.
+
+`TypeScript` `GitHub API` `CSV`
+
+</td>
+<td width="50%" valign="top">
+
+**[LinkedinProfileScorer](https://github.com/Manubarki/LinkedinProfileScorer)**
+
+Chrome extension that sits on top of LinkedIn and LinkedIn Recruiter to automatically score candidate profiles against your hiring criteria. Highlights relevant keywords instantly.
+
+`JavaScript` `Chrome Extension` `Claude` `Gemini`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SourcingCompass](https://github.com/Manubarki/SourcingCompass)**
+
+AI-powered talent mapping tool. Input a role → get target companies with match scores, poachability signals (layoffs, equity, growth stage). Built for sourcers who want to hunt smarter.
+
+`JavaScript` `Claude AI`
+
+</td>
+<td width="50%" valign="top">
+
+**Automated Google X-ray Engine**
+
+Runs daily in the background — zero manual effort. Appends fresh profiles automatically to pipeline. Removes duplicates. Pipeline grows while I sleep.
+
+`Google Apps Script` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**System Design Interview Evaluator**
+
+Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings across 6 dimensions including AI skills. Recommends level signal P4–P7 with confidence. Flags gaps.
+
+`Glean Agent` `AI Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+**ReviewRadar** *(Atlan internal)*
+
+Glean-based agent that automates performance review completion tracking and drafts personalized Slack nudges for managers who haven't submitted.
+
+`Glean` `Slack API` `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com/en/rest)
+[![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+
+[![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![Glean](https://img.shields.io/badge/Glean-FF6B35?style=flat-square&logoColor=white)](https://glean.com)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
+[![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)](https://script.google.com)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manubarki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Manubarki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manubarki&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best hires never come from job boards."*
+
+[Portfolio](https://manubarki.github.io/my_portfolio/) · [LinkedIn](https://www.linkedin.com/in/manubarki/) · [Email](mailto:manulb9@gmail.com)
+
+</div>
