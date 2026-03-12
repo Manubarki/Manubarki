@@ -59,6 +59,16 @@ AI-powered talent mapping tool. Input a role → get target companies with match
 </td>
 <td width="50%" valign="top">
 
+**Automated Google X-ray Engine**
+
+Runs daily in the background — zero manual effort. Appends fresh profiles automatically to pipeline. Removes duplicates. Pipeline grows while I sleep.
+
+`Google Apps Script` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **System Design Interview Evaluator**
 
@@ -67,17 +77,7 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 `Glean Agent` `AI Evaluation`
 
 </td>
-<td width="50%" valign="top">
-
----
-
-**Automated Google X-ray Engine**
-
-Runs daily in the background — zero manual effort. Appends fresh profiles automatically. Removes duplicates. Pipeline grows while I sleep.
-
-`Google Apps Script` `Automation`
-
-</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
