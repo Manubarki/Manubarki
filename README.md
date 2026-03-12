@@ -69,6 +69,8 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 </td>
 <td width="50%" valign="top">
 
+---
+
 **Automated Google X-ray Engine**
 
 Runs daily in the background — zero manual effort. Appends fresh profiles automatically. Removes duplicates. Pipeline grows while I sleep.
