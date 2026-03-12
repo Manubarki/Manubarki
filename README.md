@@ -81,37 +81,6 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 </td>
 <td width="50%" valign="top">
 
-**ReviewRadar** *(Atlan internal)*
-
-Glean-based agent that automates performance review completion tracking and drafts personalized Slack nudges for managers who haven't submitted.
-
-`Glean` `Slack API` `Automation`
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com/en/rest)
-[![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
-
-[![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
-[![Glean](https://img.shields.io/badge/Glean-FF6B35?style=flat-square&logoColor=white)](https://glean.com)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
-[![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)](https://script.google.com)
-
-</div>
-
----
 
 ## GitHub Stats
 
