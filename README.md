@@ -14,7 +14,9 @@
 
 ## About
 
-**Talent Partner at [Atlan](https://atlan.com)**, where I hire Principal Engineers and AI-native staff for Engineering, Product, and Design teams across India and North America. 12+ years scaling teams across B2B SaaS, Cloud, Security, and Data/AI infrastructure.
+I help founders, product leaders, and engineering heads solve the hard hiring problems - and build teams that actually move the needle.
+
+**Talent Partner at [Atlan](https://atlan.com)**, where I am building Engineering, Product, and Design teams across India and North America. 12+ years scaling teams across B2B SaaS, Cloud, Security, and Data/AI infrastructure.
 
 What makes me different: **I also build the tools my team uses.** A GitHub repo miner that extracts contributor profiles at scale. A Chrome extension that auto-scores candidates against job criteria. An AI agent that evaluates system design interviews end-to-end. An X-ray engine that runs overnight and fills my pipeline by morning. All built with AI as my engineering partner.
 
