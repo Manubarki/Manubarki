@@ -59,9 +59,6 @@ AI-powered talent mapping tool. Input a role → get target companies with match
 `React` `Vite` `Tailwind CSS` `Groq` `Claude AI`
 
 </td>
-<td width="50%" valign="top"></td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[x-ray-sourcing-agent](https://github.com/Manubarki/x-ray-sourcing-agent)**
@@ -71,6 +68,8 @@ Google X-ray search for LinkedIn /in/ profiles, powered by Serper.dev. Runs on d
 `JavaScript` `Serper.dev` `Google Sheets` `Vercel Cron`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[outboundassist](https://github.com/Manubarki/outboundassist)**
@@ -80,8 +79,6 @@ Preset-driven outbound messaging tool for recruiting. Generate copy-paste-ready 
 `JavaScript` `Claude AI` `Recruiting Automation`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **System Design Interview Evaluator**
@@ -91,6 +88,8 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 `Glean Agent` `AI Evaluation`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[my_portfolio](https://github.com/Manubarki/my_portfolio)**
@@ -100,6 +99,8 @@ Personal portfolio site showcasing my projects, tools, and background at the int
 `HTML` `CSS` `JavaScript`
 
 </td>
+<td width="50%" valign="top"></td>
+</tr>
 </tr>
 </table>
 
