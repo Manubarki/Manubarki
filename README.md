@@ -56,32 +56,13 @@ Chrome extension that sits on top of LinkedIn and LinkedIn Recruiter to automati
 
 AI-powered talent mapping tool. Input a role → get target companies with match scores, poachability signals (layoffs, equity, growth stage). Built for sourcers who want to hunt smarter.
 
-`JavaScript` `Claude AI`
-
-</td>
-<td width="50%" valign="top">
-
-**Automated Google X-ray Engine**
-
-Runs daily in the background — zero manual effort. Appends fresh profiles automatically to pipeline. Removes duplicates. Pipeline grows while I sleep.
-
-`Google Apps Script` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**System Design Interview Evaluator**
-
-Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings across 6 dimensions including AI skills. Recommends level signal P4–P7 with confidence. Flags gaps.
-
-`Glean Agent` `AI Evaluation`
+`React` `Vite` `Tailwind CSS` `Groq` `Claude AI`
 
 </td>
 <td width="50%" valign="top"></td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
 **[x-ray-sourcing-agent](https://github.com/Manubarki/x-ray-sourcing-agent)**
 
@@ -102,9 +83,29 @@ Preset-driven outbound messaging tool for recruiting. Generate copy-paste-ready 
 </tr>
 <tr>
 <td width="50%" valign="top">
-## Tech Stack
+
+**System Design Interview Evaluator**
+
+Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings across 6 dimensions including AI skills. Recommends level signal P4–P7 with confidence. Flags gaps.
+
+`Glean Agent` `AI Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+**[my_portfolio](https://github.com/Manubarki/my_portfolio)**
+
+Personal portfolio site showcasing my projects, tools, and background at the intersection of talent acquisition and AI engineering.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
+
+## Tech Stack
 
 **Languages & Runtimes**
 
