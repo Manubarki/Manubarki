@@ -83,7 +83,6 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 </tr>
 </table>
 
----
 **[x-ray-sourcing-agent](https://github.com/Manubarki/x-ray-sourcing-agent)**
 
 Google X-ray search for LinkedIn /in/ profiles, powered by Serper.dev. Runs on demand via the UI and automatically every Monday at 08:00 IST via Vercel Cron. New profiles are appended to a Google Sheet, deduped by SHA-1 URL hash.
@@ -92,8 +91,6 @@ Google X-ray search for LinkedIn /in/ profiles, powered by Serper.dev. Runs on d
 
 </td>
 <td width="50%" valign="top">
-
----
 
 **[outboundassist](https://github.com/Manubarki/outboundassist)**
 
@@ -106,6 +103,8 @@ Preset-driven outbound messaging tool for recruiting. Generate copy-paste-ready 
 <tr>
 <td width="50%" valign="top">
 ## Tech Stack
+
+---
 
 **Languages & Runtimes**
 
