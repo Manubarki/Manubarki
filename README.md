@@ -92,14 +92,6 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 <tr>
 <td width="50%" valign="top">
 
-**LinkedIn Profile Builder**
-Transforms LinkedIn PDF exports into stellar personal brand profiles using Claude AI. Fetches live GitHub repos, languages and project data for enrichment. Two modes: transform existing or build from scratch. Outputs a LinkedIn-style UI with rewritten headline, About, experience bullets and skills.
-`Claude AI` `Netlify Functions` `PDF.js` `GitHub API` `Personal Branding`
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[my_portfolio](https://github.com/Manubarki/my_portfolio)**
 
 Personal portfolio site showcasing my projects, tools, and background at the intersection of talent acquisition and AI engineering.
@@ -112,6 +104,16 @@ Personal portfolio site showcasing my projects, tools, and background at the int
 </tr>
 </table>
 
+**LinkedIn Profile Builder**
+
+Transforms LinkedIn PDF exports into stellar personal brand profiles using Claude AI. Fetches live GitHub repos, languages and project data for enrichment. Two modes: transform existing or build from scratch. Outputs a LinkedIn-style UI with rewritten headline, About, experience bullets and skills.
+
+`Claude AI` `Netlify Functions` `PDF.js` `GitHub API` `Personal Branding`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 ---
 
 ## Tech Stack
