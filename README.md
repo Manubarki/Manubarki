@@ -14,7 +14,7 @@
 
 ## About
 
-I help founders, product leaders, and engineering heads solve the hard hiring problems - and build teams that actually move the needle.
+I help founders, product leaders, and engineering heads solve the hard hiring problems — and build teams that actually move the needle.
 
 **Talent Partner at [Atlan](https://atlan.com)**, where I am building Engineering, Product, and Design teams across India and North America. 12+ years scaling teams across B2B SaaS, Cloud, Security, and Data/AI infrastructure.
 
@@ -92,6 +92,15 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 <tr>
 <td width="50%" valign="top">
 
+**[linkedin-profile-builder](https://github.com/Manubarki/linkedin-profile-builder)**
+
+Transforms LinkedIn PDF exports into stellar personal brand profiles using Claude AI. Fetches live GitHub repos, languages and project data for enrichment. Two modes: transform existing or build from scratch. Outputs a LinkedIn-style UI with rewritten headline, About, experience bullets and skills.
+
+`Claude AI` `Netlify Functions` `PDF.js` `GitHub API` `Personal Branding`
+
+</td>
+<td width="50%" valign="top">
+
 **[my_portfolio](https://github.com/Manubarki/my_portfolio)**
 
 Personal portfolio site showcasing my projects, tools, and background at the intersection of talent acquisition and AI engineering.
@@ -99,21 +108,9 @@ Personal portfolio site showcasing my projects, tools, and background at the int
 `HTML` `CSS` `JavaScript`
 
 </td>
-<td width="50%" valign="top"></td>
-</tr>
 </tr>
 </table>
 
-**LinkedIn Profile Builder**
-
-Transforms LinkedIn PDF exports into stellar personal brand profiles using Claude AI. Fetches live GitHub repos, languages and project data for enrichment. Two modes: transform existing or build from scratch. Outputs a LinkedIn-style UI with rewritten headline, About, experience bullets and skills.
-
-`Claude AI` `Netlify Functions` `PDF.js` `GitHub API` `Personal Branding`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 ---
 
 ## Tech Stack
