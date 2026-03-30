@@ -94,9 +94,9 @@ Reviews transcripts and outputs Hire / No Hire decisions. Rubric-based ratings a
 
 **[linkedin-profile-builder](https://github.com/Manubarki/linkedin-profile-builder)**
 
-Transforms LinkedIn PDF exports into stellar personal brand profiles using Claude AI. Fetches live GitHub repos, languages and project data for enrichment. Two modes: transform existing or build from scratch. Outputs a LinkedIn-style UI with rewritten headline, About, experience bullets and skills.
+AI-powered LinkedIn profile scorer, transformer and builder using Claude Vision. Upload screenshots of your profile — including photo and background banner — to get section-by-section scores, a full rewrite, and a personal brand strategy. Three modes: Score, Transform, Build from scratch.
 
-`Claude AI` `Netlify Functions` `PDF.js` `GitHub API` `Personal Branding`
+`Claude Vision` `Vercel` `JavaScript` `GitHub API` `Personal Branding`
 
 </td>
 <td width="50%" valign="top">
